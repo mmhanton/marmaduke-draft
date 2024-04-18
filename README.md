@@ -1,3 +1,5 @@
 # Marmaduke Maids Draft
 
-Data sources coming soon with more work!
+Made by me (Mady!)
+
+Data sources coming soon with more work! This area will also be more fleshed out with a larger description of project aims and background.
